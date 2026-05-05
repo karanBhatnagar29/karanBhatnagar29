@@ -1,16 +1,91 @@
-## Hi there 👋
+# Hi 👋, I'm Karan Bhatnagar
 
-<!--
-**karanBhatnagar29/karanBhatnagar29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer building real-world products
+💡 Founder mindset | Shipping > Overthinking
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+* I build **production-ready full-stack applications**
+* Focused on **clean architecture, scalability & real users**
+* Currently working on a **wellness startup (Movara)**
+* I don’t just code — I build **products that solve problems**
+
+---
+
+## 🚀 What I’m Building
+
+* 🧘 **Movara** — Wellness platform (Yoga + Health ecosystem)
+* 🛒 Full-stack **E-commerce system** (Admin + Payments + Orders)
+* ⚙️ **Admin dashboards** with real-world workflows
+* 📦 Scalable backend systems using NestJS
+
+---
+
+## 🧰 Tech Stack
+
+**Frontend**
+
+* Next.js / React
+* Tailwind / ShadCN
+* Zustand / Modern state management
+
+**Backend**
+
+* Node.js / NestJS
+* REST APIs / Microservices
+* MongoDB / Database design
+
+**Other**
+
+* AWS / CI-CD
+* System Design basics
+* Production deployment
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=karanBhatnagar29\&show_icons=true\&theme=radical)
+
+---
+
+## 🔥 Streak
+
+![Streak](https://streak-stats.demolab.com?user=karanBhatnagar29\&theme=radical)
+
+---
+
+## 🏆 Trophies
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=karanBhatnagar29\&theme=darkhub\&no-frame=true\&margin-w=10)
+
+---
+
+## 🌐 Portfolio
+
+👉 https://karanbhatnagar.vercel.app/
+
+---
+
+## 🤝 Let’s Connect
+
+* 💼 LinkedIn: (add here)
+* 📸 Instagram: https://instagram.com/karan_bhatnagar
+
+---
+
+## ⚡ Philosophy
+
+> I believe in building real products, not just projects.
+
+> Code is easy. Building something people actually use is hard — and that’s what I focus on.
+
+---
+
+## 📈 Current Focus
+
+* Scaling Movara 🚀
+* Improving system design & backend architecture
+* Building things that can become businesses
