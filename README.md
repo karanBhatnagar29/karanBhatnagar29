@@ -71,7 +71,7 @@
 
 ## 🤝 Let’s Connect
 
-* 💼 LinkedIn: (add here)
+* 💼 LinkedIn: https://www.linkedin.com/in/karanbhatnagar29/
 * 📸 Instagram: https://instagram.com/karan_bhatnagar
 
 ---
