@@ -63,12 +63,6 @@
 
 ---
 
-## 🌐 Portfolio
-
-👉 https://karanbhatnagar.vercel.app/
-
----
-
 ## 🤝 Let’s Connect
 
 * 💼 LinkedIn: https://www.linkedin.com/in/karanbhatnagar29/
@@ -86,6 +80,5 @@
 
 ## 📈 Current Focus
 
-* Scaling Movara 🚀
 * Improving system design & backend architecture
 * Building things that can become businesses
